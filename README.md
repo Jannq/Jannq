@@ -1,3 +1,3 @@
 ```lua
-> vanity                                                                                                                |  C, C++
+> vanity                                                                                      |  C, C++
 ```
